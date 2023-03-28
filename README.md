@@ -2,7 +2,7 @@
 
 <h3><b>Description</b></h3>
 
-<p>This terminal based tool creates a link HTML and Javascript tmplate using Bash scripting.</p>
+<p>This terminal based tool creates a linked HTML and Javascript tmplate using Bash scripting.</p>
 
 <h3><b>Forcus/Insperation</b></h3>
 
@@ -21,6 +21,7 @@
 <h3>Notes:</h3>
 <ul>
   <li>This was created and implemented in a linux devices</li>
+  <li>The html file is loaded with an html doc template with references to it's respective JS file</li>
   <li>Both files will have the same string before the file extensions</li>
 </ul>
 
