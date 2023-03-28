@@ -13,8 +13,9 @@
 <ul>
   <li>Run script in terminal as "bash [/path/to/script/name.sh]"</li>
   <li>You will be prompt to provide the name you want to give the files</i>
-  <li>You will then be prompt to provide path</li>
+  <li>You will then be prompt to provide the path for which you want the files to be stored</li>
   <li>Then script will then create the files of similary name:  "test.html" and "test.js"</li>
+  <li>A notification will be pushed to the system to advised of file creation or if it was unable to create the files</li>
   <li>Afterwhich it will open both template files in VS Code</li>
 </ul>
 
