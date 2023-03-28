@@ -11,13 +11,18 @@
 <h3><b>How It Works</b></h3>
 
 <ul>
-  <li>Run script as "bash [/path/to/script/name.sh]</li>
+  <li>Run script in terminal as "bash [/path/to/script/name.sh]"</li>
   <li>You will be prompt to provide the name you want to give the files</i>
   <li>You will then be prompt to provide path</li>
   <li>Then script will then create the files of similary name:  "test.html" and "test.js"</li>
   <li>Afterwhich it will open both template files in VS Code</li>
 </ul>
 
+<h3>Notes:</h3>
+<ul>
+  <li>This was created and implemented in a linux devices</li>
+  <li>Both files will have the same string before the file extensions</li>
+</ul>
 
 <hr>
 
