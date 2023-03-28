@@ -4,7 +4,7 @@
 
 <p>This terminal based tool creates a link HTML and Javascript tmplate using Bash scripting.</p>
 
-<h3><b>Forcus/insperation</b></h3>
+<h3><b>Forcus/Insperation</b></h3>
 
 <p>This was my first attempt of automating part of my code along process as I would have to often times have to make a new HTML file and JS file for each lecture</p>
 
