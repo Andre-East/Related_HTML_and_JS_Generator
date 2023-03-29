@@ -37,8 +37,7 @@ new=$1
 path=$2
 
 # the following lines are used to make a copy of the file 
-touch "$path/$new.html"; 
-touch "$path/$new.js"; 
+touch "$path/$new.html" "$path/$new.js";  
 
 #this line passes the file name and the path to the "temp' function in order to insert html doc temp
 temp "$new" "$path"
@@ -48,8 +47,7 @@ echo $creation
 notify-send "Related HTML & JS Scrip" "$creation"
 
 # the following lines are used open the files in VScode
-code "$path/$new.html";
-code "$path/$new.js"; 
+code "$path/$new.html" "$path/$new.js";
 
 }
 
