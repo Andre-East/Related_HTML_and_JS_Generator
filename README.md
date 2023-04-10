@@ -8,7 +8,7 @@
 
 <p>This was my first attempt of automating part of my code along process as I would have to often times have to make a new HTML file and JS file for each lecture</p>
 
-<image src"https://user-images.githubusercontent.com/68747084/230803651-533c320b-cf18-4ce2-b4eb-46ce09287a19.gif" height=600 width=400>
+![preview1](https://user-images.githubusercontent.com/68747084/230803651-533c320b-cf18-4ce2-b4eb-46ce09287a19.gif)
 
 
 <h3><b>How It Works</b></h3>
